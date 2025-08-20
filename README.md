@@ -1,8 +1,7 @@
 ✨ Study Buddy AI
 An intelligent web application that transforms your study notes into interactive learning tools using the power of the Google Gemini API. This project helps students study smarter by automatically generating summaries, quizzes, and flashcards from any text.
 
-➡️ Live Demo Link (Coming Soon)
-
+➡️ Live Demo Link : https://study-buddy-ai-nu.vercel.app/
 🚀 About The Project
 In today's fast-paced learning environment, students often spend hours manually creating study materials. Study Buddy AI was built to automate this process. By simply pasting in lecture notes, articles, or textbook chapters, users can instantly generate key summaries, test their knowledge with quizzes, and review important terms with flashcards.
 
